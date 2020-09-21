@@ -1,0 +1,306 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="esseilreves-danges.com" resolutions="1x" timestamp="1600512743255">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-gabarit.css" crc="291300908" ref="index"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="3906915018" ref="index"/>
+    <file name="index.css" crc="3798819474" ref="index"/>
+    <file name="nomq_index.css" crc="419110881" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="488-01.png" crc="442089185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="symboles menu-06-06.png" crc="358937002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="symboles web-05.png" crc="136169631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-rêves-d-anges-03.svg" crc="196534267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo rêves d-anges-03_poster_.png" crc="466051562" ref="index"/>
+    <file name="symboles cherch-07.png" crc="3899200413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="symb mon compte-03.png" crc="4278973151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="symb mon compte-03-crop-u1003.png" crc="421508907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ymbole marquette-04-crop-u1005.png" crc="4108673502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hhhhh.jpg" crc="345695429" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1688-4.png" crc="438183542" ref="index"/>
+    <file name="u1669-4.png" crc="362552901" ref="index"/>
+    <file name="hhhhh - copie.jpg" crc="3990491785" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1847-9.png" crc="3837777864" ref="index"/>
+    <file name="hhhhh - copie (2).jpg" crc="279856076" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1988-8.png" crc="3817780445" ref="index"/>
+    <file name="u4899-4.png" crc="438183542" ref="index"/>
+    <file name="u4900-4.png" crc="362552901" ref="index"/>
+    <file name="u4892-9.png" crc="3837777864" ref="index"/>
+    <file name="u4894-8.png" crc="3817780445" ref="index"/>
+    <file name="logo rêves d-anges4-5-05.png" crc="3906892726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo rêves d-anges tetx-06.png" crc="508775457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="symb mon compte-03-crop-u4937.png" crc="421508907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ymbole marquette-04-crop-u4915.png" crc="4108673502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4899-42.png" crc="438183542" ref="index"/>
+    <file name="u4900-42.png" crc="362552901" ref="index"/>
+    <file name="u4892-92.png" crc="3837777864" ref="index"/>
+    <file name="u4894-82.png" crc="3817780445" ref="index"/>
+    <file name="ymbole marquette-04-crop-u49152.png" crc="210025887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4899-43.png" crc="4235006827" ref="index"/>
+    <file name="u4900-43.png" crc="3827304073" ref="index"/>
+    <file name="u4892-93.png" crc="4126377084" ref="index"/>
+    <file name="u4894-83.png" crc="276669272" ref="index"/>
+    <file name="ymbole marquette-04-crop-u49153.png" crc="168407781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="relooking page rêve d-ange-04.png" crc="3919542305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="relooking page rêve d-ange-08.png" crc="291946036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="51uyt1sclpl_sl1000_.jpg" crc="3979517515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30b8fc01-d9c7-46c5-8a99-e84825421228_10b1e5d5515ff5c3a8ddf966f4b24edfc.jpg" crc="512285529" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10861-4.png" crc="3943301776" ref="index"/>
+    <file name="0d4865e2bc7b485045f815eddedd5d39-crop-u13367.jpg" crc="182016778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0bfc2baeda9f9c496f0268fef6462461924cec8ce150d5fe2f81e3930c745317-crop-u12122.jpg" crc="4272987737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0d20722e398f0edafdcd546c4feafaf7-crop-u13398.jpg" crc="3981441944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="relooking page rêve d-ange-09.png" crc="119756474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5036549886893.jpg" crc="157564831" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10862-4.png" crc="3944814934" ref="index"/>
+    <file name="baby-bath-and-changing-centers.jpg" crc="3822832435" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10863-4.png" crc="42129451" ref="index"/>
+    <file name="30b8fc01-d9c7-46c5-8a99-e84825421228_10b1e5d5515ff5c3a8ddf966f4b24edfc-u9540-fr.jpg" crc="4065707352" ref="index"/>
+    <file name="u10861-42.png" crc="4094218004" ref="index"/>
+    <file name="0d4865e2bc7b485045f815eddedd5d39-crop-u133672.jpg" crc="182016778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0bfc2baeda9f9c496f0268fef6462461924cec8ce150d5fe2f81e3930c745317-crop-u121222.jpg" crc="4272987737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0d20722e398f0edafdcd546c4feafaf7-crop-u133982.jpg" crc="3981441944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10862-42.png" crc="4261761917" ref="index"/>
+    <file name="u10863-42.png" crc="289050098" ref="index"/>
+    <file name="30b8fc01-d9c7-46c5-8a99-e84825421228_10b1e5d5515ff5c3a8ddf966f4b24edfc-u9540-fr2.jpg" crc="4082124572" ref="index"/>
+    <file name="5036549886893-u9603-fr.jpg" crc="3787411546" ref="index"/>
+    <file name="u10861-43.png" crc="4290134737" ref="index"/>
+    <file name="u10862-43.png" crc="3790745682" ref="index"/>
+    <file name="u10863-43.png" crc="4099748618" ref="index"/>
+    <file name="0d4865e2bc7b485045f815eddedd5d39-crop-u133673.jpg" crc="4221314284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0bfc2baeda9f9c496f0268fef6462461924cec8ce150d5fe2f81e3930c745317-crop-u121223.jpg" crc="4272987737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0d20722e398f0edafdcd546c4feafaf7-crop-u133983.jpg" crc="4068337995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5db6d14922e730602981_copy.jpg" crc="4294094288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="81kilrknwol_sl1500_.jpg" crc="3792854658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3106d237f2e386f6db8a6eabc46bb5e1.jpg" crc="275052559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="51vpbhey75l_sl1000_.jpg" crc="137097953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8oz-bottle-no-milk-72dpi-1x1_4feeede5-f8e8-472c-a093-b25262fe5962.jpg" crc="4019512635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="61ltyn2nmxl_sl1200_.jpg" crc="4030826008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="61dtqhho7ul_ac_sl1200_-crop-u18638.jpg" crc="3805934683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3097826a.jpg" crc="252427299" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="71yywqjwuol_sl1500_.jpg" crc="448995824" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="922801-5-crop-u18900.jpg" crc="4189317569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ssdrststraw organic strawberry print ss dress-crop-u18888.png" crc="267748687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="61dtqhho7ul_ac_sl1200_-crop-u186382.jpg" crc="3805934683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="922801-5-crop-u189002.jpg" crc="4189317569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ssdrststraw organic strawberry print ss dress-crop-u188882.png" crc="267748687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="61dtqhho7ul_ac_sl1200_.jpg" crc="212306102" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="922801-5.jpg" crc="411758915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ssdrststraw organic strawberry print ss dress-crop-u188883.png" crc="4005388971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crazy-8-660x444-u21575-fr.jpg" crc="3955271604" ref="index"/>
+    <file name="logo rêves d-anges4-5-052.png" crc="489381341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo rêves d-anges tetx-062.png" crc="129944957" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bambi.png" crc="88274334" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_airtelmoney.jpg" crc="348553543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-orange-money-3.jpg" crc="49718120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crazy-8-660x444-u21575-fr2.jpg" crc="3956010882" ref="index"/>
+    <file name="bambi-crop-u25328.png" crc="355229511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_airtelmoney-crop-u25333.jpg" crc="438645731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-orange-money-3-crop-u25324.jpg" crc="4207857433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crazy-8-660x444.jpg" crc="280362952" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="467292015" seo="true" mt="1600512723132" redirect="true"/>
+</manifest>
